@@ -1,0 +1,12 @@
+:root { color-scheme: light; font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif; }
+body { margin: 0; background: #f6f8fb; color: #172235; line-height: 1.8; }
+main { box-sizing: border-box; max-width: 780px; margin: 0 auto; padding: 32px 20px 64px; }
+header { padding: 24px 0; border-bottom: 1px solid #d9e0e8; }
+.eyebrow { margin: 0; color: #425b79; font-weight: 700; letter-spacing: .08em; }
+h1 { margin: 8px 0; font-size: clamp(1.8rem, 5vw, 2.6rem); line-height: 1.35; }
+h2 { margin: 0 0 8px; font-size: 1.3rem; }
+h3 { margin: 20px 0 4px; font-size: 1.05rem; }
+section { padding: 24px 0; border-bottom: 1px solid #d9e0e8; }
+p { margin: 8px 0 12px; }
+a { color: #155caf; text-underline-offset: 3px; }
+footer { padding-top: 24px; }
